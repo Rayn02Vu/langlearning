@@ -1,0 +1,11 @@
+[project]
+name = "langlearning"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "fastmcp>=3.4.0",
+    "langchain-openai>=1.2.2",
+    "streamlit>=1.58.0",
+]
